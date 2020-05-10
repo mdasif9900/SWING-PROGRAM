@@ -42,6 +42,8 @@ public void makeGUI()
 	jt.setFont(f);
 	
 	b=new JButton("RESULT");			// button
+	Font i=new Font("Algerian",Font.BOLD,22);
+	b.setFont(i);
 	
 	
 	jb2=new JLabel(" ");			//for second label
